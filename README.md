@@ -1,4 +1,4 @@
 # typescript_CRUD
-CRUD dengan Typescript dan Express
+CRUD dengan TypeScript dan Express
 
 #Test API menggunakan Postman
